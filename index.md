@@ -1,5 +1,5 @@
 ---
 layout: default
 ---
-
-# ECA main
+# Welcome!
+This is just a test for now.
